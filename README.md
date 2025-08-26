@@ -21,7 +21,7 @@
 ---
 
 ## 🔹 Tools & Skills
-**Languages:** SQL (MySQL), Python (beginner)  
+**Languages:** SQL (MySQL)
 **BI Tools:** Power BI, Tableau, Excel  
 **Data Viz:** Gephi, Excel Dashboards  
 **Business:** Finance, Economics, Managerial Accounting  
